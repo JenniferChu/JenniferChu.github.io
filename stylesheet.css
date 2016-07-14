@@ -4,6 +4,7 @@ h1 {
   color:#1a1a1a;
   font-family:Times, serif;
   text-align:center;
+  width: %100;
 }
 
 div {
@@ -12,14 +13,14 @@ div {
   height:50px;
 }
 
-h1, p {
+h1, h2, h3, h4, h5, h6, p {
   margin-left:auto;
   margin-right:auto;
-  width: 10em;
 }
 
 p {
   font-family:Times, sans-serif;
+  width: 50em;
 }
 
 a {
