@@ -4,7 +4,7 @@ h1,h2,h4,h5,h6 {
   color:#1a1a1a;
   font-family:Times, serif;
   text-align:center;
-  width:100em;
+  width:80em;
 }
 
 h1,h2,h3,h4,h5,h6,p,ul {
@@ -36,7 +36,7 @@ img {
 
 .stylebar {
   background-color: #ffcccc;
-  width:100em;
+  width:80em;
   height:50px;
 }
 
