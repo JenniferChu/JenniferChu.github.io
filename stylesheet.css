@@ -27,11 +27,11 @@ img {
   margin-right:auto;
 }
 
-span.resumesection {
+.resumesection {
   text-align:left;
 }
 
-span.stylebar {
+.stylebar {
   background-color: #ffcccc;
   width:%100;
   height:50px;
