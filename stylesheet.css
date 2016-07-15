@@ -4,7 +4,7 @@ h1,h2,h4,h5,h6 {
   color:#1a1a1a;
   font-family:Times, serif;
   text-align:center;
-  width:500px;
+  width:550px;
 }
 
 h1,h2,h3,h4,h5,h6,p,ul {
@@ -36,12 +36,13 @@ img {
 
 .stylebar {
   background-color: #ffcccc;
-  width:500px;
+  width:200px;
   height:50px;
 }
 
 #contactme {
   text-align:center;
+  width:10em;
 }
 
 #index {
