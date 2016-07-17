@@ -5,14 +5,13 @@ h1,h2,h4,h5,h6 {
   font-family:Times, serif;
   text-align:center;
   width:100%;
-}
-
-h1,h2,h3,h4,h5,h6,p,ul {
   margin-left:auto;
   margin-right:auto;
 }
 
 p,ul {
+  margin-left:auto;
+  margin-right:auto;
   font-family:Times, sans-serif;
   width: 50em;
 }
