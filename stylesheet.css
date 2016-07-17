@@ -26,7 +26,7 @@ img {
   margin-right:auto;
 }
 
-h1.resumesection, p.resumesection {
+.resumesection {
   text-align:left;
   width:30em;
   margin-left:auto;
